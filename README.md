@@ -1,6 +1,10 @@
 # -
 这是对Minecraft fabric 1.20.1  Sky: Origins进行的个人修改版本
 原网址：https://www.mcmod.cn/class/13530.html
+
+原仓库：https://github.com/ArvemW/skykid
+
+
 主要的变化是
 1.对其mod内容进行了全部汉化
 2.优化了其中对血量上限的限制，将不再影响其他mod对血量上限的影响以及扩充了可以使用的光之翼道具数量（根据游戏sky现阶段来说上限为13翼，能达到的最大光翼数为255，所以我将数量修改至254，原mod仅设置为13）
